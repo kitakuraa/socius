@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/prison_bgm.mp3-370ce99e22ab3cdd59a3cd0964bab72d.mp3str"
+
+[deps]
+
+source_file="res://music/prison_bgm.mp3"
+dest_files=[ "res://.import/prison_bgm.mp3-370ce99e22ab3cdd59a3cd0964bab72d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

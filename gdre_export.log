@@ -1,0 +1,61 @@
+GDRE Tools v0.6.2
+Windows 10.0.22631, Intel(R) Iris(R) Xe Graphics, opengl3
+Extracted 3855 files, no errors detected!
+USER WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: ImportExporter::_export_imports (modules\gdsdecomp\utility\import_exporter.cpp:58)
+Script version 3.5.1.stable (rev 0xa7aad78) detected
+Saved project config project.godot.
+Recreated plugin config for dialogue_manager
+Recreated plugin config for emojis-for-godot
+Did not rewrite import metadata for res://addons/dialogue_manager/assets/icons/icon_dark.svg
+Did not rewrite import metadata for res://addons/dialogue_manager/assets/icons/icon_light.svg
+Did not rewrite import metadata for res://addons/dialogue_manager/example_balloon/background.svg
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     47
+Failed scripts:                         0
+Imported resources for export session:  3855
+Successfully converted:                 540
+Lossy:                                  11
+Rewrote metadata:                       0
+Non-importable conversions:             3
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.import/icon_dark.svg-e5597fe28dca2e66ba9595c6b6035ea9.stex to res://.assets/addons/dialogue_manager/assets/icons/icon_dark.png
+res://.import/icon_light.svg-1e5ceee64a1946dfe9d292a4e653f0ec.stex to res://.assets/addons/dialogue_manager/assets/icons/icon_light.png
+res://.import/background.svg-deb28cb6c58a63f1c94833aff9cf693d.stex to res://.assets/addons/dialogue_manager/example_balloon/background.png
+res://.import/BigPanel.jpg-9e83c9c20e90a07048d2f4c16adaccca.stex to res://ui/BigPanel.jpg
+res://.import/MessageBox.jpg-7009ac00ac24d210412cc61fddafa749.stex to res://ui/MessageBox.jpg
+res://.import/MiniPanel01.jpg-8fee397149821866814aa137ecda525b.stex to res://ui/MiniPanel01.jpg
+res://.import/MiniPanel02.jpg-b1a672d6f417cfb32842c06c581b8a49.stex to res://ui/MiniPanel02.jpg
+res://.import/MiniPanel03.jpg-81c2475bd4dcde5efd6f4c437ce44976.stex to res://ui/MiniPanel03.jpg
+res://.import/MiniPanel04.jpg-8455c46152c5f29b69c774c711a18a78.stex to res://ui/MiniPanel04.jpg
+res://.import/MiniPanel05.jpg-233793b17dba1a42176ec42ff3d02ac7.stex to res://ui/MiniPanel05.jpg
+res://.import/MiniPanel06.jpg-883b90feb6c5f96fdbc17ac7afb50961.stex to res://ui/MiniPanel06.jpg
+------
+
+The following files were converted and saved to a non-original path, but did not have their import data rewritten.
+These files will not be re-imported when loading the project.
+res://.import/icon_dark.svg-e5597fe28dca2e66ba9595c6b6035ea9.stex to res://.assets/addons/dialogue_manager/assets/icons/icon_dark.png
+res://.import/icon_light.svg-1e5ceee64a1946dfe9d292a4e653f0ec.stex to res://.assets/addons/dialogue_manager/assets/icons/icon_light.png
+res://.import/background.svg-deb28cb6c58a63f1c94833aff9cf693d.stex to res://.assets/addons/dialogue_manager/example_balloon/background.png
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.1.stable to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+

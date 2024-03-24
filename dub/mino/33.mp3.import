@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/33.mp3-ab30a656acd4fa0188e0e88847ab9c52.mp3str"
+
+[deps]
+
+source_file="res://dub/mino/33.mp3"
+dest_files=[ "res://.import/33.mp3-ab30a656acd4fa0188e0e88847ab9c52.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

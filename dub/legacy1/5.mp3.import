@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/5.mp3-27f4ded4eaf0c48819b649331a5973cb.mp3str"
+
+[deps]
+
+source_file="res://dub/legacy1/5.mp3"
+dest_files=[ "res://.import/5.mp3-27f4ded4eaf0c48819b649331a5973cb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

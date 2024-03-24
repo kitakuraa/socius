@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/7.mp3-e51859c1cbcafcce44f9a7021f41317d.mp3str"
+
+[deps]
+
+source_file="res://dub/althea_end/7.mp3"
+dest_files=[ "res://.import/7.mp3-e51859c1cbcafcce44f9a7021f41317d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

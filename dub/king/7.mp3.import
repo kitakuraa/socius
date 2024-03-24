@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/7.mp3-7075eecf6aeab508bc6d1075737c41f5.mp3str"
+
+[deps]
+
+source_file="res://dub/king/7.mp3"
+dest_files=[ "res://.import/7.mp3-7075eecf6aeab508bc6d1075737c41f5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

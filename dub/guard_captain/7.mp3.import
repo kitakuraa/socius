@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/7.mp3-cce421a182a07fe281e6fe3a41489286.mp3str"
+
+[deps]
+
+source_file="res://dub/guard_captain/7.mp3"
+dest_files=[ "res://.import/7.mp3-cce421a182a07fe281e6fe3a41489286.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

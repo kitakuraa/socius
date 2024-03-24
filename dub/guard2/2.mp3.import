@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2.mp3-f7fa6577560f0115062968841b0ffa8a.mp3str"
+
+[deps]
+
+source_file="res://dub/guard2/2.mp3"
+dest_files=[ "res://.import/2.mp3-f7fa6577560f0115062968841b0ffa8a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

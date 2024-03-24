@@ -1,0 +1,38 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://fonts/monogram.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://scripts/button.gd" type="Script" id=2]
+
+[sub_resource type="RectangleShape2D" id=317]
+extents = Vector2( 219.5, 10 )
+
+[sub_resource type="DynamicFont" id=316]
+outline_color = Color( 0.560784, 0.196078, 0.623529, 1 )
+font_data = ExtResource( 1 )
+
+[sub_resource type="RectangleShape2D" id=315]
+extents = Vector2( 219.5, 8 )
+
+[node name="button" type="StaticBody2D"]
+position = Vector2( 26, 258 )
+script = ExtResource( 2 )
+
+[node name="collision" type="CollisionShape2D" parent="."]
+position = Vector2( 216.5, 8 )
+shape = SubResource( 317 )
+
+[node name="label" type="Label" parent="."]
+margin_right = 129.0
+margin_bottom = 14.0
+custom_fonts/font = SubResource( 316 )
+text = "Dengan senang hati!"
+
+[node name="area" type="Area2D" parent="."]
+position = Vector2( -26, -252 )
+
+[node name="collision" type="CollisionShape2D" parent="area"]
+position = Vector2( 243.5, 260 )
+shape = SubResource( 315 )
+
+[connection signal="mouse_entered" from="." to="." method="_on_button_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_button_mouse_exited"]

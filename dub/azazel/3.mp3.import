@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3.mp3-666412ed2acbbb8255f3cf840cfa4af3.mp3str"
+
+[deps]
+
+source_file="res://dub/azazel/3.mp3"
+dest_files=[ "res://.import/3.mp3-666412ed2acbbb8255f3cf840cfa4af3.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/36.mp3-03c9b914e32405e1f65c4f3b293fbd71.mp3str"
+
+[deps]
+
+source_file="res://dub/captain/36.mp3"
+dest_files=[ "res://.import/36.mp3-03c9b914e32405e1f65c4f3b293fbd71.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

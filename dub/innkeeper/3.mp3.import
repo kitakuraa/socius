@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3.mp3-8f146addec6e306becdc79e77c332354.mp3str"
+
+[deps]
+
+source_file="res://dub/innkeeper/3.mp3"
+dest_files=[ "res://.import/3.mp3-8f146addec6e306becdc79e77c332354.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

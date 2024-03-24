@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hell_sfx.mp3-5f8d7cc38563c29f02f23ffabdd0396d.mp3str"
+
+[deps]
+
+source_file="res://music/hell_sfx.mp3"
+dest_files=[ "res://.import/hell_sfx.mp3-5f8d7cc38563c29f02f23ffabdd0396d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1.mp3-406f64614dccdf362122d2149a2be8cd.mp3str"
+
+[deps]
+
+source_file="res://dub/arin/1.mp3"
+dest_files=[ "res://.import/1.mp3-406f64614dccdf362122d2149a2be8cd.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

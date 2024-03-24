@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3.mp3-2bd279587cd0b0812495c77778985190.mp3str"
+
+[deps]
+
+source_file="res://dub/vill4/3.mp3"
+dest_files=[ "res://.import/3.mp3-2bd279587cd0b0812495c77778985190.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

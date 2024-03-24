@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1.mp3-b179fa97b7a245b3c824d7cead5cd310.mp3str"
+
+[deps]
+
+source_file="res://dub/caius/1.mp3"
+dest_files=[ "res://.import/1.mp3-b179fa97b7a245b3c824d7cead5cd310.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

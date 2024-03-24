@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/63.mp3-d09c6443b34d4fd47742ff87816447be.mp3str"
+
+[deps]
+
+source_file="res://dub/mayor/63.mp3"
+dest_files=[ "res://.import/63.mp3-d09c6443b34d4fd47742ff87816447be.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

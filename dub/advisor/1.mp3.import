@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1.mp3-f015a79af1087a4d9d4cd51a57180d49.mp3str"
+
+[deps]
+
+source_file="res://dub/advisor/1.mp3"
+dest_files=[ "res://.import/1.mp3-f015a79af1087a4d9d4cd51a57180d49.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

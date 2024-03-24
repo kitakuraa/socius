@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2.mp3-14428c703aff39b3dd7b804d5d381fa8.mp3str"
+
+[deps]
+
+source_file="res://dub/hoglin/2.mp3"
+dest_files=[ "res://.import/2.mp3-14428c703aff39b3dd7b804d5d381fa8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/5.mp3-60186c215e666deb9acd272cdab73755.mp3str"
+
+[deps]
+
+source_file="res://dub/contractor/5.mp3"
+dest_files=[ "res://.import/5.mp3-60186c215e666deb9acd272cdab73755.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

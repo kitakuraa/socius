@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/21.mp3-c55310d34aee8491cba6a441f58edecd.mp3str"
+
+[deps]
+
+source_file="res://dub/bartender/21.mp3"
+dest_files=[ "res://.import/21.mp3-c55310d34aee8491cba6a441f58edecd.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

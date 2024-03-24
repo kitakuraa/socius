@@ -1,0 +1,31 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://addons/dialogue_manager/dialogue_resource.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+resource_version = 7
+syntax_version = 2
+raw_text = "~ main
+
+Raja: Halo deck"
+errors = [  ]
+titles = {
+"main": "2"
+}
+lines = {
+"0": {
+"next_id": "2",
+"text": "main",
+"type": "title"
+},
+"2": {
+"character": "Raja",
+"character_replacements": [  ],
+"next_id": "",
+"replacements": [  ],
+"text": "Halo deck",
+"translation_key": "Halo deck",
+"type": "dialogue"
+}
+}

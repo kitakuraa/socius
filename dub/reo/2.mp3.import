@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2.mp3-1b6daa9002308a26470ca3f508a75fb9.mp3str"
+
+[deps]
+
+source_file="res://dub/reo/2.mp3"
+dest_files=[ "res://.import/2.mp3-1b6daa9002308a26470ca3f508a75fb9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

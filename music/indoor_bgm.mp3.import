@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/indoor_bgm.mp3-680404e79e6c57573a720849a8c5b035.mp3str"
+
+[deps]
+
+source_file="res://music/indoor_bgm.mp3"
+dest_files=[ "res://.import/indoor_bgm.mp3-680404e79e6c57573a720849a8c5b035.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

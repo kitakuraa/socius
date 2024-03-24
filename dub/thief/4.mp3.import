@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/4.mp3-2b36d3fdd7c38cce79cba0b06048b7c0.mp3str"
+
+[deps]
+
+source_file="res://dub/thief/4.mp3"
+dest_files=[ "res://.import/4.mp3-2b36d3fdd7c38cce79cba0b06048b7c0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

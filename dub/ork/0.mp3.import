@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/0.mp3-2f75bc8e2a63aaf010d051cddd739916.mp3str"
+
+[deps]
+
+source_file="res://dub/ork/0.mp3"
+dest_files=[ "res://.import/0.mp3-2f75bc8e2a63aaf010d051cddd739916.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3.mp3-6fe0f56d65fc1b247fa7e43c84f38758.mp3str"
+
+[deps]
+
+source_file="res://dub/masked_man/3.mp3"
+dest_files=[ "res://.import/3.mp3-6fe0f56d65fc1b247fa7e43c84f38758.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

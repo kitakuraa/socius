@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/castle_final_bgm.mp3-ae694efde5efd46a6980048aeb3594e9.mp3str"
+
+[deps]
+
+source_file="res://music/castle_final_bgm.mp3"
+dest_files=[ "res://.import/castle_final_bgm.mp3-ae694efde5efd46a6980048aeb3594e9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
